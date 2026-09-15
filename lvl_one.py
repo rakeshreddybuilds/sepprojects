@@ -62,4 +62,7 @@
 #   print("Your number is negative brother")
 # else:
 #   print("Your number is zero")
-
+nums = [3, 34,53]
+if nums > 20:
+ for num in nums:
+  print(nums)
